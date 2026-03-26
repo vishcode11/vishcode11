@@ -9,3 +9,5 @@ pretty interesting to me. I’m focused on continuously learning, solving comple
 scalable systems that combines my interest and innovation with impact.
 
 
+
+
